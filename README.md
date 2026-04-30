@@ -51,7 +51,13 @@ An AI-powered study planner built using Spring Boot that helps students generate
 * Add frontend (React / Android)
 * User authentication
 
----
+  ## How to Run
+
+1. Clone the repository
+2. Open in IntelliJ
+3. Run `StudygenieAiApplication`
+4. Use Postman to test APIs at `http://localhost:8080`
+
 
 ##  Project Idea
 
